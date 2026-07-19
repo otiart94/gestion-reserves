@@ -1,0 +1,7 @@
+streamlit
+xhtml2pdf
+python-docx
+Pillow
+folium
+streamlit-folium
+pymupdf
